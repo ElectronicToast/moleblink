@@ -1,9 +1,9 @@
 # moleblink
-![release](https://img.shields.io/github/v/release/electronictoast/molelink?include_prereleases) ![license](https://img.shields.io/github/license/electronictoast/moleblink) ![madewith](https://img.shields.io/badge/made%20with-KiCad-blue)
+![release](https://img.shields.io/github/v/release/ElectronicToast/moleblink?include_prereleases) ![license](https://img.shields.io/github/license/ElectronicToast/moleblink) ![madewith](https://img.shields.io/badge/made%20with-KiCad-blue)
 
 ATtiny85-based illuminated PCB keychain featuring the Blacker Hovse crest
 
-![moleblink](/img/molelink.png)
+![moleblink](/img/moleblink.png)
 
 ## Description
 Blacker Hovse (House) is one of the eight student houses in the undergraduate housing system at Caltech. Blacker was founded in 1932 and named after Robert Roe Blacker, a trustee of Caltech. Notable alumni from Blacker include William Shockley, Walter Munk, Carver Mead, and Kip Thorne. The current house motto is *Sed nvlla nisi ardva virtvs*.
